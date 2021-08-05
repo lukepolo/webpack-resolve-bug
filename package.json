@@ -1,0 +1,21 @@
+{
+  "name": "webpack-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@bull-board/express": "^3.4.0",
+    "bullmq": "^1.40.1",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "webpack": "^5.48.0",
+    "webpack-cli": "^4.7.2"
+  }
+}
